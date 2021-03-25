@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @heatherlock
+- 👀 I’m interested in machine learning and software development
+- 🌱 I’m currently learning about RNN's and NLP
+- 📫 How to reach me: hlockwood@berkeley.edu
